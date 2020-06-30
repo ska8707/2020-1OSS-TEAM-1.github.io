@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<img src="https://w.namu.la/s/bd0bfd954224b0fd76f22a56ed771edc12e2caa9d5b21ea2a1dae0ab91f0b1cd06d2f7cde096c9cc7726930d08db1b90e9746e78a24b6e5ebadacef6926b31122a92ced31bcde69439dc9b98a85246a070231ddcc420943a39f8bbd13ae23d95" width="350" height="350">
 
-You can use the [editor on GitHub](https://github.com/2020-1OSS-TEAM-1/2020-10SS-TEAM-1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[다음 홈페이지 바로가기](https://www.daum.net/ "다음 홈페이지 바로가기")  
+# DAUM
+## 소개  
+> 당신이 찾는 모든 것, Daum PC 첫화면에서 만나보세요.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**DAUM** 은 **(주)카카오** 에서 운영하는 대한민국 검색 포털 사이트이며,"한메일"이라는 이름으로 대한민국 최초의 웹 메일 서비스를 열었으며, 이 밖에도 온라인 커뮤니티 서비스 "다음 카페", 뉴스 서비스 "다음 뉴스" 등을 서비스하고 있습니다.
 
-### Markdown
+| 설립연도 | 본사 위치 | 주요서비스 | 주요사업 | 대표자 | 연 방문자 수 | 
+| :----: | :----: | :----: | :----: | :----: | :----: |
+| 1995년 2월 | 제주특별자치도 제주시 첨단로 242 | 온라인 검색포털, 뉴스, 모바일 메신저 플랫폼 | 온라인 광고 및 콘텐츠 사업 | 김범수 | 약 3억 4,610만 명(2018년 기준) |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 주요연혁(2014~2016)
+* **2016**  
+1월 - (주) 로엔엔터테인먼트(LOEN)인수
 
-# Header 1
-## Header 2
-### Header 3
+* **2015**  
+09월 - ‘카카오’로 사명변경  
+05월 - 국민내비 김기사 ‘록앤올’ 인수  
+03월 - 케이큐브벤처스 계열사 편입  
 
-- Bulleted
-- List
+* **2014**  
+12월 - 투자전문회사 케이벤처그룹 설립  
+10월 - 다음카카오 통합법인 출범  
+05월 - 다음 커뮤니케이션-카카오 합병 발표  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2020-1OSS-TEAM-1/2020-10SS-TEAM-1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 기업 비전(Python)
+```python
+print("카카오는 새로운 연결을 통해 더 편리하고 즐거운 세상을 꿈꿉니다. 사람과 사람, 사람과 기술을 한층 가깝게 연결함으로써 세상을 어제보다 더 나은 곳으로 만들기 위해 노력하고 있습니다.")
