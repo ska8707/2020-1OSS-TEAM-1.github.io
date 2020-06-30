@@ -2,7 +2,7 @@
 
 <img src="http://blogfiles.naver.net/MjAyMDA0MDNfMjkz/MDAxNTg1ODg4ODI2OTgy.cWIq1TEifAZ-GHZdagnnw5sx626Ka2GCJ-apsRedBlog.ubAfurSOaFWerQxbn69ndQ4Q4HD6l5oUXrW_vW-h0tsg.PNG.leeon715/6.png" width="350" height="350">
 
-
+[네이버 홈페이지](https://www.naver.com/ "네이버 홈페이지")  
 # Naver 
 ## 소개  
 > 네이버는 미래 기술을 누구나 손쉽게 사용할 수 있도록 기술플랫폼으로서의 변화를 추구하며,
