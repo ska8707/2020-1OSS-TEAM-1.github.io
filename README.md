@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 <img src="http://blogfiles.naver.net/MjAyMDA0MDNfMjkz/MDAxNTg1ODg4ODI2OTgy.cWIq1TEifAZ-GHZdagnnw5sx626Ka2GCJ-apsRedBlog.ubAfurSOaFWerQxbn69ndQ4Q4HD6l5oUXrW_vW-h0tsg.PNG.leeon715/6.png" width="350" height="350">
 
@@ -42,4 +41,3 @@ print("       10 - 네이버, ‘2019 대한민국 소상공인대회’ 감사�
 print("       11 - 네이버, 동반성장주간 기념식 자발적 상생협력 부문 대통령 표창 수상(중소벤처기업부, 동반성장위원회)")
 print("       12 - 네이버, 대한민국 동반성장 시상식 3년 연속 ‘동반성장지수평가 최우수 기업상’ 수상(동반성장위원회)")
 ```
-
